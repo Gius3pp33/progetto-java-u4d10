@@ -1,4 +1,5 @@
 package giuseppelongo.enums;
 
-public class MagazinePeriodicity {
+public enum MagazinePeriodicity {
+    SETTIMANALE, MENSILE, SEMESTRALE
 }
